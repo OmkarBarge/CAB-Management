@@ -1,0 +1,6 @@
+Python and SQLite
+It is consoled based application. 
+In this Application CAB Owner register himself and cab, the user 
+register himself and see available CAB and the admin to lookout all CAB Owner and Users.
+-The CAB System will maintain the database of all vehicle, Vehicle Owner, User and Admin profile.
+-Users can call and order to rent or reserve a vehicle.
